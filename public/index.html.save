@@ -1,0 +1,12 @@
+echo "<HTML>"
+echo "<HEAD>"
+echo " 
+ This is a new HTML Page created for the Deployment Project in ARIA
+</TITLE>
+</HEAD>
+
+<BODY>
+If you can reasd this you are buying the drink on Saturday while watching the match
+</BODY>
+</HTML>
+
