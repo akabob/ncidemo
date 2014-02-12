@@ -2,7 +2,7 @@ body {
   padding-left: 11em;
   font-family: Georgia, "Times New Roman", Times, serif;
   color: purple;
-  background-color: #d8da3d
+  background-color: red
 }
 
 ul.navbar {
@@ -15,6 +15,9 @@ ul.navbar {
   width: 9em
 }
   
+paragraph.paraCenter
+
 h1 {
-  font-family: Helvetica, Geneva, Arial, sans-serif
+  font-family: Helvetica, Geneva, Arial,serif;
+  color: green
 }
